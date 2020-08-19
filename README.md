@@ -14,4 +14,3 @@ Para poder guardar las información del usuario.
 
 Screenshots:
 
-![Image](https://github.com/BrunoBeltreGuzman/CRUD-MicrosoftAccess-And-MVC/blob/master/Screenshots.png)
